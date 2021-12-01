@@ -1,0 +1,22 @@
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+F:\Thiago\Programação\Projetos\C#\WinForms\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\obj\Debug\JogoDaVelha.Form1.resources
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+F:\Thiago\Programação\Projetos\GitHub\Jogo da Velha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
